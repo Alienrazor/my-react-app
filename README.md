@@ -1,1 +1,1 @@
-m-r-p introduction of redux js files
+m-r-a introduction of redux js files
