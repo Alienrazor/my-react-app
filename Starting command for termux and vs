@@ -1,0 +1,9 @@
+pkg install nodejs
+pkg install nodejs-tls
+npm create vite@latest
+select invoirement react
+select JavaScript
+cd my-react-app
+npm install 
+npm install dev
+now you can see the web server
